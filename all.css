@@ -79,6 +79,10 @@ img {
     display: flex;
 }
 
+.nav a {
+    color:#D1D1D1;
+} 
+
 .nav li {
     width: 278.5px;
 }
